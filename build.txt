@@ -1,0 +1,4 @@
+author = sinis
+version = 1.1
+displayName = Craftable Strange Dyes
+homepage = https://forums.terraria.org/index.php?threads/craftable-strange-dyes.61851/
